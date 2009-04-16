@@ -4,7 +4,7 @@
   <groupId>com.componentcorp</groupId>
   <artifactId>hibernate-multi-cache</artifactId>
   <packaging>jar</packaging>
-  <version>0.5</version>
+  <version>0.6-SNAPSHOT</version>
   <name>HibernateMultiCache</name>
   <url>http://maven.apache.org</url>
   <dependencies>
